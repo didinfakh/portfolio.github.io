@@ -12,3 +12,8 @@
 #skill {
   height: auto;
 }
+@media only screen and (max-width: 600px) {
+  .textSkills {
+    font-size: 12px;
+  }
+}
